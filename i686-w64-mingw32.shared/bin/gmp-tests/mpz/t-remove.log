@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-remove.exe: No such file or directory
+FAIL t-remove.exe (exit status: 127)

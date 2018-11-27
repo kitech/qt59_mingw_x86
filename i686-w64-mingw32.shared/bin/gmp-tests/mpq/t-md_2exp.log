@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-md_2exp.exe: No such file or directory
+FAIL t-md_2exp.exe (exit status: 127)

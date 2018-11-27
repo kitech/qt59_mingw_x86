@@ -1,0 +1,290 @@
+============================================
+   GNU MP 6.1.2: tests/mpn/test-suite.log
+============================================
+
+# TOTAL: 46
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  46
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-asmtype
+===============
+
+../../test-driver: line 107: ./t-asmtype.exe: No such file or directory
+FAIL t-asmtype.exe (exit status: 127)
+
+FAIL: t-aors_1
+==============
+
+../../test-driver: line 107: ./t-aors_1.exe: No such file or directory
+FAIL t-aors_1.exe (exit status: 127)
+
+FAIL: t-divrem_1
+================
+
+../../test-driver: line 107: ./t-divrem_1.exe: No such file or directory
+FAIL t-divrem_1.exe (exit status: 127)
+
+FAIL: t-mod_1
+=============
+
+../../test-driver: line 107: ./t-mod_1.exe: No such file or directory
+FAIL t-mod_1.exe (exit status: 127)
+
+FAIL: t-fat
+===========
+
+../../test-driver: line 107: ./t-fat.exe: No such file or directory
+FAIL t-fat.exe (exit status: 127)
+
+FAIL: t-get_d
+=============
+
+../../test-driver: line 107: ./t-get_d.exe: No such file or directory
+FAIL t-get_d.exe (exit status: 127)
+
+FAIL: t-instrument
+==================
+
+../../test-driver: line 107: ./t-instrument.exe: No such file or directory
+FAIL t-instrument.exe (exit status: 127)
+
+FAIL: t-iord_u
+==============
+
+../../test-driver: line 107: ./t-iord_u.exe: No such file or directory
+FAIL t-iord_u.exe (exit status: 127)
+
+FAIL: t-mp_bases
+================
+
+../../test-driver: line 107: ./t-mp_bases.exe: No such file or directory
+FAIL t-mp_bases.exe (exit status: 127)
+
+FAIL: t-perfsqr
+===============
+
+../../test-driver: line 107: ./t-perfsqr.exe: No such file or directory
+FAIL t-perfsqr.exe (exit status: 127)
+
+FAIL: t-scan
+============
+
+../../test-driver: line 107: ./t-scan.exe: No such file or directory
+FAIL t-scan.exe (exit status: 127)
+
+FAIL: logic
+===========
+
+../../test-driver: line 107: ./logic.exe: No such file or directory
+FAIL logic.exe (exit status: 127)
+
+FAIL: t-toom22
+==============
+
+../../test-driver: line 107: ./t-toom22.exe: No such file or directory
+FAIL t-toom22.exe (exit status: 127)
+
+FAIL: t-toom32
+==============
+
+../../test-driver: line 107: ./t-toom32.exe: No such file or directory
+FAIL t-toom32.exe (exit status: 127)
+
+FAIL: t-toom33
+==============
+
+../../test-driver: line 107: ./t-toom33.exe: No such file or directory
+FAIL t-toom33.exe (exit status: 127)
+
+FAIL: t-toom42
+==============
+
+../../test-driver: line 107: ./t-toom42.exe: No such file or directory
+FAIL t-toom42.exe (exit status: 127)
+
+FAIL: t-toom43
+==============
+
+../../test-driver: line 107: ./t-toom43.exe: No such file or directory
+FAIL t-toom43.exe (exit status: 127)
+
+FAIL: t-toom44
+==============
+
+../../test-driver: line 107: ./t-toom44.exe: No such file or directory
+FAIL t-toom44.exe (exit status: 127)
+
+FAIL: t-toom52
+==============
+
+../../test-driver: line 107: ./t-toom52.exe: No such file or directory
+FAIL t-toom52.exe (exit status: 127)
+
+FAIL: t-toom53
+==============
+
+../../test-driver: line 107: ./t-toom53.exe: No such file or directory
+FAIL t-toom53.exe (exit status: 127)
+
+FAIL: t-toom54
+==============
+
+../../test-driver: line 107: ./t-toom54.exe: No such file or directory
+FAIL t-toom54.exe (exit status: 127)
+
+FAIL: t-toom62
+==============
+
+../../test-driver: line 107: ./t-toom62.exe: No such file or directory
+FAIL t-toom62.exe (exit status: 127)
+
+FAIL: t-toom63
+==============
+
+../../test-driver: line 107: ./t-toom63.exe: No such file or directory
+FAIL t-toom63.exe (exit status: 127)
+
+FAIL: t-toom6h
+==============
+
+../../test-driver: line 107: ./t-toom6h.exe: No such file or directory
+FAIL t-toom6h.exe (exit status: 127)
+
+FAIL: t-toom8h
+==============
+
+../../test-driver: line 107: ./t-toom8h.exe: No such file or directory
+FAIL t-toom8h.exe (exit status: 127)
+
+FAIL: t-toom2-sqr
+=================
+
+../../test-driver: line 107: ./t-toom2-sqr.exe: No such file or directory
+FAIL t-toom2-sqr.exe (exit status: 127)
+
+FAIL: t-toom3-sqr
+=================
+
+../../test-driver: line 107: ./t-toom3-sqr.exe: No such file or directory
+FAIL t-toom3-sqr.exe (exit status: 127)
+
+FAIL: t-toom4-sqr
+=================
+
+../../test-driver: line 107: ./t-toom4-sqr.exe: No such file or directory
+FAIL t-toom4-sqr.exe (exit status: 127)
+
+FAIL: t-toom6-sqr
+=================
+
+../../test-driver: line 107: ./t-toom6-sqr.exe: No such file or directory
+FAIL t-toom6-sqr.exe (exit status: 127)
+
+FAIL: t-toom8-sqr
+=================
+
+../../test-driver: line 107: ./t-toom8-sqr.exe: No such file or directory
+FAIL t-toom8-sqr.exe (exit status: 127)
+
+FAIL: t-div
+===========
+
+../../test-driver: line 107: ./t-div.exe: No such file or directory
+FAIL t-div.exe (exit status: 127)
+
+FAIL: t-mul
+===========
+
+../../test-driver: line 107: ./t-mul.exe: No such file or directory
+FAIL t-mul.exe (exit status: 127)
+
+FAIL: t-mullo
+=============
+
+../../test-driver: line 107: ./t-mullo.exe: No such file or directory
+FAIL t-mullo.exe (exit status: 127)
+
+FAIL: t-sqrlo
+=============
+
+../../test-driver: line 107: ./t-sqrlo.exe: No such file or directory
+FAIL t-sqrlo.exe (exit status: 127)
+
+FAIL: t-mulmod_bnm1
+===================
+
+../../test-driver: line 107: ./t-mulmod_bnm1.exe: No such file or directory
+FAIL t-mulmod_bnm1.exe (exit status: 127)
+
+FAIL: t-sqrmod_bnm1
+===================
+
+../../test-driver: line 107: ./t-sqrmod_bnm1.exe: No such file or directory
+FAIL t-sqrmod_bnm1.exe (exit status: 127)
+
+FAIL: t-mulmid
+==============
+
+../../test-driver: line 107: ./t-mulmid.exe: No such file or directory
+FAIL t-mulmid.exe (exit status: 127)
+
+FAIL: t-hgcd
+============
+
+../../test-driver: line 107: ./t-hgcd.exe: No such file or directory
+FAIL t-hgcd.exe (exit status: 127)
+
+FAIL: t-hgcd_appr
+=================
+
+../../test-driver: line 107: ./t-hgcd_appr.exe: No such file or directory
+FAIL t-hgcd_appr.exe (exit status: 127)
+
+FAIL: t-matrix22
+================
+
+../../test-driver: line 107: ./t-matrix22.exe: No such file or directory
+FAIL t-matrix22.exe (exit status: 127)
+
+FAIL: t-invert
+==============
+
+../../test-driver: line 107: ./t-invert.exe: No such file or directory
+FAIL t-invert.exe (exit status: 127)
+
+FAIL: t-bdiv
+============
+
+../../test-driver: line 107: ./t-bdiv.exe: No such file or directory
+FAIL t-bdiv.exe (exit status: 127)
+
+FAIL: t-broot
+=============
+
+../../test-driver: line 107: ./t-broot.exe: No such file or directory
+FAIL t-broot.exe (exit status: 127)
+
+FAIL: t-brootinv
+================
+
+../../test-driver: line 107: ./t-brootinv.exe: No such file or directory
+FAIL t-brootinv.exe (exit status: 127)
+
+FAIL: t-minvert
+===============
+
+../../test-driver: line 107: ./t-minvert.exe: No such file or directory
+FAIL t-minvert.exe (exit status: 127)
+
+FAIL: t-sizeinbase
+==================
+
+../../test-driver: line 107: ./t-sizeinbase.exe: No such file or directory
+FAIL t-sizeinbase.exe (exit status: 127)
+

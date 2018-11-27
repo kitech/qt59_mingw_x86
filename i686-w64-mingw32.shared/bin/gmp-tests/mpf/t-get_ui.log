@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-get_ui.exe: No such file or directory
+FAIL t-get_ui.exe (exit status: 127)

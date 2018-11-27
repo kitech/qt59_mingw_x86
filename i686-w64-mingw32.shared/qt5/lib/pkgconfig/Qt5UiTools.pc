@@ -1,0 +1,14 @@
+prefix=/opt/mxe/usr/i686-w64-mingw32.shared/qt5
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+
+Name: Qt5 UiTools
+Description: Qt UiTools module
+Version: 5.9.3
+Libs: -L${libdir} -lQt5UiTools 
+Libs.private: -lopengl32 -L/opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib /opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib/libQt5Widgets.a /opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib/libQt5Gui.a /opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib/libQt5Core.a /opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib/libQt5Widgets.a /opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib/libQt5Gui.a /opt/mxe/usr/i686-w64-mingw32.shared/qt5/lib/libQt5Core.a 
+Cflags: -I${includedir}/QtUiTools -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Widgets
+

@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-mulmod_bnm1.exe: No such file or directory
+FAIL t-mulmod_bnm1.exe (exit status: 127)

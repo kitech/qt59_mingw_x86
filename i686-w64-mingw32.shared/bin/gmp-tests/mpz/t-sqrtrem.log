@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-sqrtrem.exe: No such file or directory
+FAIL t-sqrtrem.exe (exit status: 127)

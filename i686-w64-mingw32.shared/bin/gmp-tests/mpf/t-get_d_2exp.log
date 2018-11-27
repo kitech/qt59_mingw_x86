@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-get_d_2exp.exe: No such file or directory
+FAIL t-get_d_2exp.exe (exit status: 127)

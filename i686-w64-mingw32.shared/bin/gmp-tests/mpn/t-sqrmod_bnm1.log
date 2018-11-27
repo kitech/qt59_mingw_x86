@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-sqrmod_bnm1.exe: No such file or directory
+FAIL t-sqrmod_bnm1.exe (exit status: 127)

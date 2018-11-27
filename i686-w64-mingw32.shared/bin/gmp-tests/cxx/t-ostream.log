@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-ostream.exe: No such file or directory
+FAIL t-ostream.exe (exit status: 127)

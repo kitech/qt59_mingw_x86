@@ -1,0 +1,32 @@
+=============================================
+   GNU MP 6.1.2: tests/misc/test-suite.log
+=============================================
+
+# TOTAL: 3
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  3
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-printf
+==============
+
+../../test-driver: line 107: ./t-printf.exe: No such file or directory
+FAIL t-printf.exe (exit status: 127)
+
+FAIL: t-scanf
+=============
+
+../../test-driver: line 107: ./t-scanf.exe: No such file or directory
+FAIL t-scanf.exe (exit status: 127)
+
+FAIL: t-locale
+==============
+
+../../test-driver: line 107: ./t-locale.exe: No such file or directory
+FAIL t-locale.exe (exit status: 127)
+

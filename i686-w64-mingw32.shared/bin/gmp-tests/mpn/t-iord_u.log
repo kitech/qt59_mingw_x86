@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-iord_u.exe: No such file or directory
+FAIL t-iord_u.exe (exit status: 127)

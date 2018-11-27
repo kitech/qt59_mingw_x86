@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-tdiv.exe: No such file or directory
+FAIL t-tdiv.exe (exit status: 127)

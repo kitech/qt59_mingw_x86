@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-set_d.exe: No such file or directory
+FAIL t-set_d.exe (exit status: 127)

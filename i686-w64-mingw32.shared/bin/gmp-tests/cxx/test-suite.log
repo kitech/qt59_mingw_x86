@@ -1,0 +1,134 @@
+============================================
+   GNU MP 6.1.2: tests/cxx/test-suite.log
+============================================
+
+# TOTAL: 20
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  20
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-binary
+==============
+
+../../test-driver: line 107: ./t-binary.exe: No such file or directory
+FAIL t-binary.exe (exit status: 127)
+
+FAIL: t-cast
+============
+
+../../test-driver: line 107: ./t-cast.exe: No such file or directory
+FAIL t-cast.exe (exit status: 127)
+
+FAIL: t-cxx11
+=============
+
+../../test-driver: line 107: ./t-cxx11.exe: No such file or directory
+FAIL t-cxx11.exe (exit status: 127)
+
+FAIL: t-headers
+===============
+
+../../test-driver: line 107: ./t-headers.exe: No such file or directory
+FAIL t-headers.exe (exit status: 127)
+
+FAIL: t-iostream
+================
+
+../../test-driver: line 107: ./t-iostream.exe: No such file or directory
+FAIL t-iostream.exe (exit status: 127)
+
+FAIL: t-istream
+===============
+
+../../test-driver: line 107: ./t-istream.exe: No such file or directory
+FAIL t-istream.exe (exit status: 127)
+
+FAIL: t-locale
+==============
+
+../../test-driver: line 107: ./t-locale.exe: No such file or directory
+FAIL t-locale.exe (exit status: 127)
+
+FAIL: t-misc
+============
+
+../../test-driver: line 107: ./t-misc.exe: No such file or directory
+FAIL t-misc.exe (exit status: 127)
+
+FAIL: t-mix
+===========
+
+../../test-driver: line 107: ./t-mix.exe: No such file or directory
+FAIL t-mix.exe (exit status: 127)
+
+FAIL: t-ops
+===========
+
+../../test-driver: line 107: ./t-ops.exe: No such file or directory
+FAIL t-ops.exe (exit status: 127)
+
+FAIL: t-ops2
+============
+
+../../test-driver: line 107: ./t-ops2.exe: No such file or directory
+FAIL t-ops2.exe (exit status: 127)
+
+FAIL: t-ops3
+============
+
+../../test-driver: line 107: ./t-ops3.exe: No such file or directory
+FAIL t-ops3.exe (exit status: 127)
+
+FAIL: t-ostream
+===============
+
+../../test-driver: line 107: ./t-ostream.exe: No such file or directory
+FAIL t-ostream.exe (exit status: 127)
+
+FAIL: t-prec
+============
+
+../../test-driver: line 107: ./t-prec.exe: No such file or directory
+FAIL t-prec.exe (exit status: 127)
+
+FAIL: t-ternary
+===============
+
+../../test-driver: line 107: ./t-ternary.exe: No such file or directory
+FAIL t-ternary.exe (exit status: 127)
+
+FAIL: t-unary
+=============
+
+../../test-driver: line 107: ./t-unary.exe: No such file or directory
+FAIL t-unary.exe (exit status: 127)
+
+FAIL: t-do-exceptions-work-at-all-with-this-compiler
+====================================================
+
+../../test-driver: line 107: ./t-do-exceptions-work-at-all-with-this-compiler.exe: No such file or directory
+FAIL t-do-exceptions-work-at-all-with-this-compiler.exe (exit status: 127)
+
+FAIL: t-assign
+==============
+
+../../test-driver: line 107: ./t-assign.exe: No such file or directory
+FAIL t-assign.exe (exit status: 127)
+
+FAIL: t-constr
+==============
+
+../../test-driver: line 107: ./t-constr.exe: No such file or directory
+FAIL t-constr.exe (exit status: 127)
+
+FAIL: t-rand
+============
+
+../../test-driver: line 107: ./t-rand.exe: No such file or directory
+FAIL t-rand.exe (exit status: 127)
+

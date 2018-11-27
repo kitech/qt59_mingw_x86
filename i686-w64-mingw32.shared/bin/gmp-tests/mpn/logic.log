@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./logic.exe: No such file or directory
+FAIL logic.exe (exit status: 127)

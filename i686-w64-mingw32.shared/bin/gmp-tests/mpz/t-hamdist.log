@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-hamdist.exe: No such file or directory
+FAIL t-hamdist.exe (exit status: 127)

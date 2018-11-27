@@ -1,0 +1,2 @@
+../test-driver: line 107: ./t-count_zeros.exe: No such file or directory
+FAIL t-count_zeros.exe (exit status: 127)

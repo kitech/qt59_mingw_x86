@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-set_si.exe: No such file or directory
+FAIL t-set_si.exe (exit status: 127)

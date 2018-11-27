@@ -1,0 +1,56 @@
+=============================================
+   GNU MP 6.1.2: tests/rand/test-suite.log
+=============================================
+
+# TOTAL: 7
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  7
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-iset
+============
+
+../../test-driver: line 107: ./t-iset.exe: No such file or directory
+FAIL t-iset.exe (exit status: 127)
+
+FAIL: t-lc2exp
+==============
+
+../../test-driver: line 107: ./t-lc2exp.exe: No such file or directory
+FAIL t-lc2exp.exe (exit status: 127)
+
+FAIL: t-mt
+==========
+
+../../test-driver: line 107: ./t-mt.exe: No such file or directory
+FAIL t-mt.exe (exit status: 127)
+
+FAIL: t-rand
+============
+
+../../test-driver: line 107: ./t-rand.exe: No such file or directory
+FAIL t-rand.exe (exit status: 127)
+
+FAIL: t-urbui
+=============
+
+../../test-driver: line 107: ./t-urbui.exe: No such file or directory
+FAIL t-urbui.exe (exit status: 127)
+
+FAIL: t-urmui
+=============
+
+../../test-driver: line 107: ./t-urmui.exe: No such file or directory
+FAIL t-urmui.exe (exit status: 127)
+
+FAIL: t-urndmm
+==============
+
+../../test-driver: line 107: ./t-urndmm.exe: No such file or directory
+FAIL t-urndmm.exe (exit status: 127)
+

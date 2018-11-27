@@ -1,0 +1,104 @@
+============================================
+   GNU MP 6.1.2: tests/mpq/test-suite.log
+============================================
+
+# TOTAL: 15
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  15
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-aors
+============
+
+../../test-driver: line 107: ./t-aors.exe: No such file or directory
+FAIL t-aors.exe (exit status: 127)
+
+FAIL: t-cmp
+===========
+
+../../test-driver: line 107: ./t-cmp.exe: No such file or directory
+FAIL t-cmp.exe (exit status: 127)
+
+FAIL: t-cmp_ui
+==============
+
+../../test-driver: line 107: ./t-cmp_ui.exe: No such file or directory
+FAIL t-cmp_ui.exe (exit status: 127)
+
+FAIL: t-cmp_si
+==============
+
+../../test-driver: line 107: ./t-cmp_si.exe: No such file or directory
+FAIL t-cmp_si.exe (exit status: 127)
+
+FAIL: t-equal
+=============
+
+../../test-driver: line 107: ./t-equal.exe: No such file or directory
+FAIL t-equal.exe (exit status: 127)
+
+FAIL: t-get_d
+=============
+
+../../test-driver: line 107: ./t-get_d.exe: No such file or directory
+FAIL t-get_d.exe (exit status: 127)
+
+FAIL: t-get_str
+===============
+
+../../test-driver: line 107: ./t-get_str.exe: No such file or directory
+FAIL t-get_str.exe (exit status: 127)
+
+FAIL: t-inp_str
+===============
+
+../../test-driver: line 107: ./t-inp_str.exe: No such file or directory
+FAIL t-inp_str.exe (exit status: 127)
+
+FAIL: t-inv
+===========
+
+../../test-driver: line 107: ./t-inv.exe: No such file or directory
+FAIL t-inv.exe (exit status: 127)
+
+FAIL: t-md_2exp
+===============
+
+../../test-driver: line 107: ./t-md_2exp.exe: No such file or directory
+FAIL t-md_2exp.exe (exit status: 127)
+
+FAIL: t-set_f
+=============
+
+../../test-driver: line 107: ./t-set_f.exe: No such file or directory
+FAIL t-set_f.exe (exit status: 127)
+
+FAIL: t-set_str
+===============
+
+../../test-driver: line 107: ./t-set_str.exe: No such file or directory
+FAIL t-set_str.exe (exit status: 127)
+
+FAIL: io
+========
+
+../../test-driver: line 107: ./io.exe: No such file or directory
+FAIL io.exe (exit status: 127)
+
+FAIL: reuse
+===========
+
+../../test-driver: line 107: ./reuse.exe: No such file or directory
+FAIL reuse.exe (exit status: 127)
+
+FAIL: t-cmp_z
+=============
+
+../../test-driver: line 107: ./t-cmp_z.exe: No such file or directory
+FAIL t-cmp_z.exe (exit status: 127)
+

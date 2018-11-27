@@ -1,0 +1,13 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+libdir=/opt/mxe/usr/i686-w64-mingw32.shared/lib
+sharedlibdir=/opt/mxe/usr/i686-w64-mingw32.shared/lib
+includedir=/opt/mxe/usr/i686-w64-mingw32.shared/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.11
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

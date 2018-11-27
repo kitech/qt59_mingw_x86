@@ -1,0 +1,182 @@
+============================================
+   GNU MP 6.1.2: tests/mpf/test-suite.log
+============================================
+
+# TOTAL: 28
+# PASS:  0
+# SKIP:  0
+# XFAIL: 0
+# FAIL:  28
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+FAIL: t-dm2exp
+==============
+
+../../test-driver: line 107: ./t-dm2exp.exe: No such file or directory
+FAIL t-dm2exp.exe (exit status: 127)
+
+FAIL: t-conv
+============
+
+../../test-driver: line 107: ./t-conv.exe: No such file or directory
+FAIL t-conv.exe (exit status: 127)
+
+FAIL: t-add
+===========
+
+../../test-driver: line 107: ./t-add.exe: No such file or directory
+FAIL t-add.exe (exit status: 127)
+
+FAIL: t-sub
+===========
+
+../../test-driver: line 107: ./t-sub.exe: No such file or directory
+FAIL t-sub.exe (exit status: 127)
+
+FAIL: t-sqrt
+============
+
+../../test-driver: line 107: ./t-sqrt.exe: No such file or directory
+FAIL t-sqrt.exe (exit status: 127)
+
+FAIL: t-sqrt_ui
+===============
+
+../../test-driver: line 107: ./t-sqrt_ui.exe: No such file or directory
+FAIL t-sqrt_ui.exe (exit status: 127)
+
+FAIL: t-muldiv
+==============
+
+../../test-driver: line 107: ./t-muldiv.exe: No such file or directory
+FAIL t-muldiv.exe (exit status: 127)
+
+FAIL: reuse
+===========
+
+../../test-driver: line 107: ./reuse.exe: No such file or directory
+FAIL reuse.exe (exit status: 127)
+
+FAIL: t-cmp_d
+=============
+
+../../test-driver: line 107: ./t-cmp_d.exe: No such file or directory
+FAIL t-cmp_d.exe (exit status: 127)
+
+FAIL: t-cmp_si
+==============
+
+../../test-driver: line 107: ./t-cmp_si.exe: No such file or directory
+FAIL t-cmp_si.exe (exit status: 127)
+
+FAIL: t-div
+===========
+
+../../test-driver: line 107: ./t-div.exe: No such file or directory
+FAIL t-div.exe (exit status: 127)
+
+FAIL: t-fits
+============
+
+../../test-driver: line 107: ./t-fits.exe: No such file or directory
+FAIL t-fits.exe (exit status: 127)
+
+FAIL: t-get_d
+=============
+
+../../test-driver: line 107: ./t-get_d.exe: No such file or directory
+FAIL t-get_d.exe (exit status: 127)
+
+FAIL: t-get_d_2exp
+==================
+
+../../test-driver: line 107: ./t-get_d_2exp.exe: No such file or directory
+FAIL t-get_d_2exp.exe (exit status: 127)
+
+FAIL: t-get_si
+==============
+
+../../test-driver: line 107: ./t-get_si.exe: No such file or directory
+FAIL t-get_si.exe (exit status: 127)
+
+FAIL: t-get_ui
+==============
+
+../../test-driver: line 107: ./t-get_ui.exe: No such file or directory
+FAIL t-get_ui.exe (exit status: 127)
+
+FAIL: t-gsprec
+==============
+
+../../test-driver: line 107: ./t-gsprec.exe: No such file or directory
+FAIL t-gsprec.exe (exit status: 127)
+
+FAIL: t-inp_str
+===============
+
+../../test-driver: line 107: ./t-inp_str.exe: No such file or directory
+FAIL t-inp_str.exe (exit status: 127)
+
+FAIL: t-int_p
+=============
+
+../../test-driver: line 107: ./t-int_p.exe: No such file or directory
+FAIL t-int_p.exe (exit status: 127)
+
+FAIL: t-mul_ui
+==============
+
+../../test-driver: line 107: ./t-mul_ui.exe: No such file or directory
+FAIL t-mul_ui.exe (exit status: 127)
+
+FAIL: t-set
+===========
+
+../../test-driver: line 107: ./t-set.exe: No such file or directory
+FAIL t-set.exe (exit status: 127)
+
+FAIL: t-set_q
+=============
+
+../../test-driver: line 107: ./t-set_q.exe: No such file or directory
+FAIL t-set_q.exe (exit status: 127)
+
+FAIL: t-set_si
+==============
+
+../../test-driver: line 107: ./t-set_si.exe: No such file or directory
+FAIL t-set_si.exe (exit status: 127)
+
+FAIL: t-set_ui
+==============
+
+../../test-driver: line 107: ./t-set_ui.exe: No such file or directory
+FAIL t-set_ui.exe (exit status: 127)
+
+FAIL: t-trunc
+=============
+
+../../test-driver: line 107: ./t-trunc.exe: No such file or directory
+FAIL t-trunc.exe (exit status: 127)
+
+FAIL: t-ui_div
+==============
+
+../../test-driver: line 107: ./t-ui_div.exe: No such file or directory
+FAIL t-ui_div.exe (exit status: 127)
+
+FAIL: t-eq
+==========
+
+../../test-driver: line 107: ./t-eq.exe: No such file or directory
+FAIL t-eq.exe (exit status: 127)
+
+FAIL: t-pow_ui
+==============
+
+../../test-driver: line 107: ./t-pow_ui.exe: No such file or directory
+FAIL t-pow_ui.exe (exit status: 127)
+

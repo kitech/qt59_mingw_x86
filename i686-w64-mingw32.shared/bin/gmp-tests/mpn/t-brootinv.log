@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-brootinv.exe: No such file or directory
+FAIL t-brootinv.exe (exit status: 127)

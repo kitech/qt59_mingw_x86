@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-cmp_d.exe: No such file or directory
+FAIL t-cmp_d.exe (exit status: 127)

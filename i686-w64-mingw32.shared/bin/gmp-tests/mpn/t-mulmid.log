@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-mulmid.exe: No such file or directory
+FAIL t-mulmid.exe (exit status: 127)

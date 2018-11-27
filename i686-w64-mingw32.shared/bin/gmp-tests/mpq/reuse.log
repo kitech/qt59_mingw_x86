@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./reuse.exe: No such file or directory
+FAIL reuse.exe (exit status: 127)

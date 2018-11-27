@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./io.exe: No such file or directory
+FAIL io.exe (exit status: 127)

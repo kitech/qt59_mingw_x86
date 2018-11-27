@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-root.exe: No such file or directory
+FAIL t-root.exe (exit status: 127)

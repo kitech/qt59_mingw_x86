@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-aors.exe: No such file or directory
+FAIL t-aors.exe (exit status: 127)

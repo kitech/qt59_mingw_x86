@@ -1,0 +1,2 @@
+../../test-driver: line 107: ./t-pprime_p.exe: No such file or directory
+FAIL t-pprime_p.exe (exit status: 127)
